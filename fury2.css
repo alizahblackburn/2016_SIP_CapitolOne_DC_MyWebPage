@@ -1,0 +1,20 @@
+p{
+	font-family: "Brush Script MT Italic";
+	text-align: center;
+	color: pink;
+	font-size: 20px
+}
+
+h1{
+	font-family: "Brush Script MT Italic";
+	text-align: center;
+	color: pink;
+}
+
+body{
+	background-image: url("fury.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100% auto
+}

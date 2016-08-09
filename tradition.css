@@ -1,0 +1,18 @@
+p{
+	font-family: "Brush Script MT Italic";
+	text-align: center;
+	font-size: 20px
+}
+
+h1{
+	font-family: "Brush Script MT Italic";
+	text-align: center;
+}
+
+body{
+	background-image: url("tradition.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100% auto
+}
